@@ -1,4 +1,4 @@
-# Nerfies
+# Multi-person Pose Estimation in Volumetric Capture
 
 This is the repository that contains source code for the [Official website](https://lionelding.github.io/HumanPoseVolumetricCapture/).
 
